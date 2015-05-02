@@ -155,9 +155,7 @@ pic.rutube.ru/video/d4/52/d452e0d567ce6ca5035d712279d3b9bb.jpg?size=m
 | person        |                                   |                    |
 | tag           | sort                              | tagged_a, tagged_d, created_a, created_d, publication_a, publication_d |
 | cardgroup     |                                   |                    |
-| userchannel   | ordering                          | publication_ts, created_ts, views, id
-                                                      _* Можно также задавать обратные значения этих параметров, например,
-                                                      -created_ts, а также группировать их через запятую, например, -created_ts,-id._ |
+| userchannel   | ordering                          | publication_ts, created_ts, views, id _* Можно также задавать обратные значения этих параметров, например, -created_ts, а также группировать их через запятую, например, -created_ts,-id._ |
 
 Эти значения необходимо подставлять к `url` при запросе источника. Например, для источника типа ТВ-шоу:
 
