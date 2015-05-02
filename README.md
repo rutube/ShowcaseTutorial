@@ -136,7 +136,7 @@ results - [ _array_ ] массив карточек.
 pic.rutube.ru/video/d4/52/d452e0d567ce6ca5035d712279d3b9bb.jpg?size=m
 ```
 
-Доступно три размера: `l`(arge), `m`(edium), `s`(mall).
+Доступно три размера: `l`arge, `m`edium, `s`mall.
 
 ## Сортировка карточек
 
